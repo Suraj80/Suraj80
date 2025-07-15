@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About Me
 
-🎓 Pursuing MCA at KLS Gogte Institute of Technology, Belgaum (GPA: 8.0/10)  
-🎓 BCA Graduate from Global College of BCA, Hubli (GPA: 7.2/10)  
+🎓 Pursuing MCA at KLS Gogte Institute of Technology, Belgaum  
+🎓 BCA Graduate from Global College of BCA, Hubli 
 🧠 Interests: Web Development, SSO Authentication, AI Integrations  
 🏆 Participated in Hackathons and Workshops related to REST APIs, AI, and UX
 
@@ -71,8 +71,8 @@ Tech Stack: HTML, CSS, JS, PHP, MySQL
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajJ&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajJ&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj80&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj80&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
